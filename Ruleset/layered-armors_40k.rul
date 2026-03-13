@@ -1,5 +1,5 @@
 ##################################################################################################################################################
-##################################################################RAVEN GUARD##################################################################
+##################################################################WHITE SCARS##################################################################
 ##################################################################PRIMARIS####################################################################
 ##################################################################################################################################################
 armors:
@@ -1264,7 +1264,7 @@ extraSprites:
   - typeSingle: 21__0__CAPEP
     fileSingle: Resources/LAYER/CAPEP.png
   - typeSingle: 21__0__BIKE
-    fileSingle: Resources/LAYER/RAVENG/OUTRIDER.png
+    fileSingle: Resources/LAYER/WSCAR/OUTRIDER.png
   - typeSingle: 21__3__MEDAL1
     fileSingle: Resources/LAYER/MEDAL1.png
   - typeSingle: 21__3__MEDAL2
@@ -1274,23 +1274,23 @@ extraSprites:
   - typeSingle: 21__4__HOOD
     fileSingle: Resources/LAYER/HOOD.png
   - typeSingle: 21__1__MKXAPO
-    fileSingle: Resources/LAYER/RAVENG/MKXAPO.png
+    fileSingle: Resources/LAYER/WSCAR/MKXAPO.png
   - typeSingle: 21__1__MKXTEC
-    fileSingle: Resources/LAYER/RAVENG/MKXTEC.png
+    fileSingle: Resources/LAYER/WSCAR/MKXTEC.png
   - typeSingle: 21__1__MKXTEC2
-    fileSingle: Resources/LAYER/RAVENG/MKXTEC2.png
+    fileSingle: Resources/LAYER/WSCAR/MKXTEC2.png
   - typeSingle: 21__1__MKXCHP
-    fileSingle: Resources/LAYER/RAVENG/MKXCHP.png
+    fileSingle: Resources/LAYER/WSCAR/MKXCHP.png
   - typeSingle: 21__1__MKXLV1
-    fileSingle: Resources/LAYER/RAVENG/MKXLV1.png
+    fileSingle: Resources/LAYER/WSCAR/MKXLV1.png
   - typeSingle: 21__1__MKXLV2
-    fileSingle: Resources/LAYER/RAVENG/MKXLV2.png
+    fileSingle: Resources/LAYER/WSCAR/MKXLV2.png
   - typeSingle: 21__1__MKXLV3
-    fileSingle: Resources/LAYER/RAVENG/MKXLV3.png
+    fileSingle: Resources/LAYER/WSCAR/MKXLV3.png
   - typeSingle: 21__1__MKXLV4
-    fileSingle: Resources/LAYER/RAVENG/MKXLV4.png
+    fileSingle: Resources/LAYER/WSCAR/MKXLV4.png
   - typeSingle: 21__1__MKXLV5
-    fileSingle: Resources/LAYER/RAVENG/MKXLV5.png
+    fileSingle: Resources/LAYER/WSCAR/MKXLV5.png
 #    
   - typeSingle: 22__0__0
     fileSingle: Resources/LAYER/0.gif
@@ -1303,15 +1303,15 @@ extraSprites:
   - typeSingle: 22__3__MEDAL3
     fileSingle: Resources/LAYER/MEDAL3.png    
   - typeSingle: 22__1__PHBLV1
-    fileSingle: Resources/LAYER/RAVENG/PHBLV1.png
+    fileSingle: Resources/LAYER/WSCAR/PHBLV1.png
   - typeSingle: 22__1__PHBLV2
-    fileSingle: Resources/LAYER/RAVENG/PHBLV2.png
+    fileSingle: Resources/LAYER/WSCAR/PHBLV2.png
   - typeSingle: 22__1__PHBLV3
-    fileSingle: Resources/LAYER/RAVENG/PHBLV3.png
+    fileSingle: Resources/LAYER/WSCAR/PHBLV3.png
   - typeSingle: 22__1__PHBLV4
-    fileSingle: Resources/LAYER/RAVENG/PHBLV4.png
+    fileSingle: Resources/LAYER/WSCAR/PHBLV4.png
   - typeSingle: 22__1__PHBLV5
-    fileSingle: Resources/LAYER/RAVENG/PHBLV5.png
+    fileSingle: Resources/LAYER/WSCAR/PHBLV5.png
 #
   - typeSingle: 23__3__MEDAL1
     fileSingle: Resources/LAYER/MEDAL1.png
@@ -1324,31 +1324,31 @@ extraSprites:
   - typeSingle: 23__0__CAPEP
     fileSingle: Resources/LAYER/CAPEP.png
   - typeSingle: 23__1__GRVLV1
-    fileSingle: Resources/LAYER/RAVENG/GRVLV1.png
+    fileSingle: Resources/LAYER/WSCAR/GRVLV1.png
   - typeSingle: 23__1__GRVLV2
-    fileSingle: Resources/LAYER/RAVENG/GRVLV2.png
+    fileSingle: Resources/LAYER/WSCAR/GRVLV2.png
   - typeSingle: 23__1__GRVLV3
-    fileSingle: Resources/LAYER/RAVENG/GRVLV3.png
+    fileSingle: Resources/LAYER/WSCAR/GRVLV3.png
   - typeSingle: 23__1__GRVLV4
-    fileSingle: Resources/LAYER/RAVENG/GRVLV4.png
+    fileSingle: Resources/LAYER/WSCAR/GRVLV4.png
   - typeSingle: 23__1__GRVLV5
-    fileSingle: Resources/LAYER/RAVENG/GRVLV5.png
+    fileSingle: Resources/LAYER/WSCAR/GRVLV5.png
   - typeSingle: 23__1__INCLV1
-    fileSingle: Resources/LAYER/RAVENG/INCLV1.png
+    fileSingle: Resources/LAYER/WSCAR/INCLV1.png
   - typeSingle: 23__1__INCLV2
-    fileSingle: Resources/LAYER/RAVENG/INCLV2.png
+    fileSingle: Resources/LAYER/WSCAR/INCLV2.png
   - typeSingle: 23__1__INCLV3
-    fileSingle: Resources/LAYER/RAVENG/INCLV3.png
+    fileSingle: Resources/LAYER/WSCAR/INCLV3.png
   - typeSingle: 23__1__INCLV4
-    fileSingle: Resources/LAYER/RAVENG/INCLV4.png
+    fileSingle: Resources/LAYER/WSCAR/INCLV4.png
   - typeSingle: 23__1__INCLV5
-    fileSingle: Resources/LAYER/RAVENG/INCLV5.png
+    fileSingle: Resources/LAYER/WSCAR/INCLV5.png
   - typeSingle: 23__1__LIBLV1
-    fileSingle: Resources/LAYER/RAVENG/LIBLV1.png
+    fileSingle: Resources/LAYER/WSCAR/LIBLV1.png
   - typeSingle: 23__1__LIBLV2
-    fileSingle: Resources/LAYER/RAVENG/LIBLV2.png
+    fileSingle: Resources/LAYER/WSCAR/LIBLV2.png
   - typeSingle: 23__1__LIBLV3
-    fileSingle: Resources/LAYER/RAVENG/LIBLV3.png
+    fileSingle: Resources/LAYER/WSCAR/LIBLV3.png
 #
   - typeSingle: 21__2__M0_FACE
     fileSingle: Resources/LAYER/P/2facem0.png
@@ -1437,81 +1437,81 @@ extraSprites:
     fileSingle: Resources/LAYER/G/2facem13.png
 ##################################################################FIRSTBORN###################################################################
   - typeSingle: BIKE__1__BIKEM
-    fileSingle: Resources/LAYER/RAVENG/BIKEM.png
+    fileSingle: Resources/LAYER/WSCAR/BIKEM.png
   - typeSingle: BIKE__1__BIKEF
-    fileSingle: Resources/LAYER/RAVENG/BIKEF.png
+    fileSingle: Resources/LAYER/WSCAR/BIKEF.png
   - typeSingle: SCOUT__1__ASCOUTM
-    fileSingle: Resources/LAYER/RAVENG/ASCOUTM.png
+    fileSingle: Resources/LAYER/WSCAR/ASCOUTM.png
   - typeSingle: SCOUT__1__ASCOUTMB
-    fileSingle: Resources/LAYER/RAVENG/ASCOUTMB.png
+    fileSingle: Resources/LAYER/WSCAR/ASCOUTMB.png
   - typeSingle: SCOUT__1__ASCOUTMC
-    fileSingle: Resources/LAYER/RAVENG/ASCOUTMC.png
+    fileSingle: Resources/LAYER/WSCAR/ASCOUTMC.png
   - typeSingle: SCOUT__1__ASCOUTF
-    fileSingle: Resources/LAYER/RAVENG/ASCOUTF.png
+    fileSingle: Resources/LAYER/WSCAR/ASCOUTF.png
   - typeSingle: SCOUT__1__ASCOUTFB
-    fileSingle: Resources/LAYER/RAVENG/ASCOUTFB.png
+    fileSingle: Resources/LAYER/WSCAR/ASCOUTFB.png
   - typeSingle: SCOUT__1__ASCOUTFC
-    fileSingle: Resources/LAYER/RAVENG/ASCOUTFC.png
+    fileSingle: Resources/LAYER/WSCAR/ASCOUTFC.png
   - typeSingle: SCOUTH__1__AHSCOUTM
-    fileSingle: Resources/LAYER/RAVENG/AHSCOUTM.png
+    fileSingle: Resources/LAYER/WSCAR/AHSCOUTM.png
   - typeSingle: SCOUTH__1__AHSCOUTF
-    fileSingle: Resources/LAYER/RAVENG/AHSCOUTF.png
+    fileSingle: Resources/LAYER/WSCAR/AHSCOUTF.png
   - typeSingle: TATICAL__1__TATICALM
-    fileSingle: Resources/LAYER/RAVENG/TATICALM.png
+    fileSingle: Resources/LAYER/WSCAR/TATICALM.png
   - typeSingle: TATICAL__1__TATICALF
-    fileSingle: Resources/LAYER/RAVENG/TATICALF.png
+    fileSingle: Resources/LAYER/WSCAR/TATICALF.png
   - typeSingle: SIGNAL__1__SIGNALM
-    fileSingle: Resources/LAYER/RAVENG/SIGNALM.png
+    fileSingle: Resources/LAYER/WSCAR/SIGNALM.png
   - typeSingle: SIGNAL__1__SIGNALF
-    fileSingle: Resources/LAYER/RAVENG/SIGNALF.png
+    fileSingle: Resources/LAYER/WSCAR/SIGNALF.png
   - typeSingle: ASSAULT__1__ASSAULTM
-    fileSingle: Resources/LAYER/RAVENG/ASSAULTM.png
+    fileSingle: Resources/LAYER/WSCAR/ASSAULTM.png
   - typeSingle: ASSAULT__1__ASSAULTF
-    fileSingle: Resources/LAYER/RAVENG/ASSAULTF.png
+    fileSingle: Resources/LAYER/WSCAR/ASSAULTF.png
   - typeSingle: HONOR__1__HONORM
-    fileSingle: Resources/LAYER/RAVENG/HONORM.png
+    fileSingle: Resources/LAYER/WSCAR/HONORM.png
   - typeSingle: HONOR__1__HONORF
-    fileSingle: Resources/LAYER/RAVENG/HONORF.png
+    fileSingle: Resources/LAYER/WSCAR/HONORF.png
   - typeSingle: HONORASS__1__ASSAULTMH
-    fileSingle: Resources/LAYER/RAVENG/ASSAULTMH.png
+    fileSingle: Resources/LAYER/WSCAR/ASSAULTMH.png
   - typeSingle: HONORASS__1__ASSAULTFH
-    fileSingle: Resources/LAYER/RAVENG/ASSAULTFH.png
+    fileSingle: Resources/LAYER/WSCAR/ASSAULTFH.png
   - typeSingle: CHAPLAIN__1__CHAPLAINM
-    fileSingle: Resources/LAYER/RAVENG/CHAPLAINM.png
+    fileSingle: Resources/LAYER/WSCAR/CHAPLAINM.png
   - typeSingle: CHAPLAIN__1__CHAPLAINF
-    fileSingle: Resources/LAYER/RAVENG/CHAPLAINF.png
+    fileSingle: Resources/LAYER/WSCAR/CHAPLAINF.png
   - typeSingle: DEVASTATOR__1__DEVASTATORM
-    fileSingle: Resources/LAYER/RAVENG/DEVASTATORM.png
+    fileSingle: Resources/LAYER/WSCAR/DEVASTATORM.png
   - typeSingle: DEVASTATOR__1__DEVASTATORF
-    fileSingle: Resources/LAYER/RAVENG/DEVASTATORF.png
+    fileSingle: Resources/LAYER/WSCAR/DEVASTATORF.png
   - typeSingle: TECH__1__TECHM
-    fileSingle: Resources/LAYER/RAVENG/TECHM.png
+    fileSingle: Resources/LAYER/WSCAR/TECHM.png
   - typeSingle: TECH__1__TECHF
-    fileSingle: Resources/LAYER/RAVENG/TECHF.png
+    fileSingle: Resources/LAYER/WSCAR/TECHF.png
   - typeSingle: CAPTAIN__1__CAPTAINM
-    fileSingle: Resources/LAYER/RAVENG/CAPTAINM.png
+    fileSingle: Resources/LAYER/WSCAR/CAPTAINM.png
   - typeSingle: CAPTAIN__1__CAPTAINF
-    fileSingle: Resources/LAYER/RAVENG/CAPTAINF.png
+    fileSingle: Resources/LAYER/WSCAR/CAPTAINF.png
   - typeSingle: SARGENT__1__SARGENTM
-    fileSingle: Resources/LAYER/RAVENG/SARGENTM.png
+    fileSingle: Resources/LAYER/WSCAR/SARGENTM.png
   - typeSingle: SARGENT__1__SARGENTF
-    fileSingle: Resources/LAYER/RAVENG/SARGENTF.png
+    fileSingle: Resources/LAYER/WSCAR/SARGENTF.png
   - typeSingle: LIB__1__LIBM
-    fileSingle: Resources/LAYER/RAVENG/LIBM.png
+    fileSingle: Resources/LAYER/WSCAR/LIBM.png
   - typeSingle: LIB__1__LIBF
-    fileSingle: Resources/LAYER/RAVENG/LIBF.png
+    fileSingle: Resources/LAYER/WSCAR/LIBF.png
   - typeSingle: APOT__1__APOTM
-    fileSingle: Resources/LAYER/RAVENG/APOTM.png
+    fileSingle: Resources/LAYER/WSCAR/APOTM.png
   - typeSingle: APOT__1__APOTF
-    fileSingle: Resources/LAYER/RAVENG/APOTF.png
+    fileSingle: Resources/LAYER/WSCAR/APOTF.png
   - typeSingle: TERMINATOR__1__TERMINATORMF
-    fileSingle: Resources/LAYER/RAVENG/TERMINATORMF.png
+    fileSingle: Resources/LAYER/WSCAR/TERMINATORMF.png
   - typeSingle: TSARGENT__1__TERMINATORSMF
-    fileSingle: Resources/LAYER/RAVENG/TERMINATORSMF.png
+    fileSingle: Resources/LAYER/WSCAR/TERMINATORSMF.png
   - typeSingle: CENT__1__CENTMF
-    fileSingle: Resources/LAYER/RAVENG/CENTMF.png
+    fileSingle: Resources/LAYER/WSCAR/CENTMF.png
   - typeSingle: TERMINATOR__3__CLAWS
-    fileSingle: Resources/LAYER/RAVENG/TERMINATORSMF.png
+    fileSingle: Resources/LAYER/WSCAR/TERMINATORSMF.png
 #
 #
 #
@@ -1612,103 +1612,103 @@ extraSprites:
 #
 #INVENTORY`S
   - typeSingle: GOGGLES__3__GOGGLES
-    fileSingle: Resources/LAYER/RAVENG/goggles.png
+    fileSingle: Resources/LAYER/WSCAR/goggles.png
   - typeSingle: CAPE__3__GOGGLES
-    fileSingle: Resources/LAYER/RAVENG/goggles.png
+    fileSingle: Resources/LAYER/WSCAR/goggles.png
 #
   - type: TINVFZ.SPK #TATICAL F                                  ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/TINVFZ.png
+      0: Resources/LAYER/WSCAR/TINVFZ.png
   - type: TINVMZ.SPK #TATICAL M                                  ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/TINVMZ.png
+      0: Resources/LAYER/WSCAR/TINVMZ.png
   - type: SINVFZ.SPK #SCOUT F                                  ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/SINVFZ.png
+      0: Resources/LAYER/WSCAR/SINVFZ.png
   - type: SINVMZ.SPK #SCOUT M                                  ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/SINVMZ.png
+      0: Resources/LAYER/WSCAR/SINVMZ.png
   - type: TERMINATORFZ.SPK #TER F                                 ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/TERMINATORFZ.png
+      0: Resources/LAYER/WSCAR/TERMINATORFZ.png
   - type: TERMINATORMZ.SPK #TER M                                 ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/TERMINATORMZ.png
+      0: Resources/LAYER/WSCAR/TERMINATORMZ.png
 #
   - type: JINV.SPK #NPCJ INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/JINV2.png
+      0: Resources/LAYER/WSCAR/JINV2.png
   - type: JINV5.SPK #NPCJ INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/JINV5.png
+      0: Resources/LAYER/WSCAR/JINV5.png
   - type: DREADINV.SPK #DREAD INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/DREADI.png
+      0: Resources/LAYER/WSCAR/DREADI.png
   - type: DREADINV2.SPK #DREAD INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/DREADI2.png
+      0: Resources/LAYER/WSCAR/DREADI2.png
   - type: DREADINV3.SPK #DREAD INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/DREADI3.png
+      0: Resources/LAYER/WSCAR/DREADI3.png
   - type: DREADINV4.SPK #DREAD INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/DREADI4.png
+      0: Resources/LAYER/WSCAR/DREADI4.png
   - type: DREADINV5.SPK #DREAD INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/DREADI5.png
+      0: Resources/LAYER/WSCAR/DREADI5.png
   - type: CIV3.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/CIV3.png
+      0: Resources/LAYER/WSCAR/CIV3.png
   - type: CENTINV.SPK #CIV1 INV CENTURION
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/CENT.png
+      0: Resources/LAYER/WSCAR/CENT.png
   - type: TARANTULA1.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/TAR.png
+      0: Resources/LAYER/WSCAR/TAR.png
   - type: TARANTULA2.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/TAR2.png
+      0: Resources/LAYER/WSCAR/TAR2.png
   - type: WWI.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/WW.png
+      0: Resources/LAYER/WSCAR/WW.png
   - type: VIN.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/VIN.png
+      0: Resources/LAYER/WSCAR/VIN.png
   - type: D.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/D.png
+      0: Resources/LAYER/WSCAR/D.png
   - type: RAZOR.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/RAZOR.png
+      0: Resources/LAYER/WSCAR/RAZOR.png
   - type: STORMTALONI.SPK #STORMTALON INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/STORMTALON.png
+      0: Resources/LAYER/WSCAR/STORMTALON.png
   - type: IMPULSOR.SPK #CIV1 INV
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/IMPULSOR.png
+      0: Resources/LAYER/WSCAR/IMPULSOR.png
 #
 #DRAWING ROUTINES  #PRIMARIS
 
@@ -1719,154 +1719,154 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXLIB1.png
+      0: Resources/MKX-ARMOR/WSCAR/MXLIB1.png
   - type: PRIMLIBLV2.PCK #MKX LEVEL 2
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXLIB2.png
+      0: Resources/MKX-ARMOR/WSCAR/MXLIB2.png
   - type: PRIMLIBLV3.PCK #MKX LEVEL 3
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXLIB3.png
+      0: Resources/MKX-ARMOR/WSCAR/MXLIB3.png
   - type: PRIMCHP.PCK #MKX CHAPLAIN
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXCHP.png
+      0: Resources/MKX-ARMOR/WSCAR/MXCHP.png
   - type: PRIMAPO.PCK #MKX APOTH
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXAPOT.png
+      0: Resources/MKX-ARMOR/WSCAR/MXAPOT.png
   - type: PRIMTEC.PCK #MKX APOTH
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXTEC1.png
+      0: Resources/MKX-ARMOR/WSCAR/MXTEC1.png
   - type: PRIMTEC2.PCK #MKX APOTH
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXTEC2.png      
+      0: Resources/MKX-ARMOR/WSCAR/MXTEC2.png      
   - type: PRIMTACLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXTAC1.png
+      0: Resources/MKX-ARMOR/WSCAR/MXTAC1.png
   - type: PRIMTACLV2.PCK #MKX LEVEL 2
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXTAC2.png
+      0: Resources/MKX-ARMOR/WSCAR/MXTAC2.png
   - type: PRIMTACLV3.PCK #MKX LEVEL 3
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXTAC3.png
+      0: Resources/MKX-ARMOR/WSCAR/MXTAC3.png
   - type: PRIMTACLV4.PCK #MKX LEVEL 5
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXTAC4.png
+      0: Resources/MKX-ARMOR/WSCAR/MXTAC4.png
   - type: PRIMTACLV5.PCK #MKX LEVEL 5
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXTAC5.png
+      0: Resources/MKX-ARMOR/WSCAR/MXTAC5.png
   - type: PRIMINCLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXINC1.png
+      0: Resources/MKX-ARMOR/WSCAR/MXINC1.png
   - type: PRIMINCLV2.PCK #MKX LEVEL 2
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXINC2.png
+      0: Resources/MKX-ARMOR/WSCAR/MXINC2.png
   - type: PRIMINCLV3.PCK #MKX LEVEL 3
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXINC3.png
+      0: Resources/MKX-ARMOR/WSCAR/MXINC3.png
   - type: PRIMINCLV4.PCK #MKX LEVEL 4
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXINC4.png
+      0: Resources/MKX-ARMOR/WSCAR/MXINC4.png
   - type: PRIMINCLV5.PCK #MKX LEVEL 5
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXINC5.png      
+      0: Resources/MKX-ARMOR/WSCAR/MXINC5.png      
   - type: PRIMPHBLV1.PCK #MKX LEVEL 1
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXPHB1.png
+      0: Resources/MKX-ARMOR/WSCAR/MXPHB1.png
   - type: PRIMPHBLV2.PCK #MKX LEVEL 2
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXPHB2.png
+      0: Resources/MKX-ARMOR/WSCAR/MXPHB2.png
   - type: PRIMPHBLV3.PCK #MKX LEVEL 3
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXPHB3.png
+      0: Resources/MKX-ARMOR/WSCAR/MXPHB3.png
   - type: PRIMPHBLV4.PCK #MKX LEVEL 4
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXPHB4.png
+      0: Resources/MKX-ARMOR/WSCAR/MXPHB4.png
   - type: PRIMPHBLV5.PCK #MKX LEVEL 5
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXPHB5.png
+      0: Resources/MKX-ARMOR/WSCAR/MXPHB5.png
 #
   - type: PRIMGRVLV1.PCK #MKX LEVEL 1
     width: 512
@@ -1874,35 +1874,35 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXGRV1.png
+      0: Resources/MKX-ARMOR/WSCAR/MXGRV1.png
   - type: PRIMGRVLV2.PCK #MKX LEVEL 2
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXGRV2.png
+      0: Resources/MKX-ARMOR/WSCAR/MXGRV2.png
   - type: PRIMGRVLV3.PCK #MKX LEVEL 3
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXGRV3.png
+      0: Resources/MKX-ARMOR/WSCAR/MXGRV3.png
   - type: PRIMGRVLV4.PCK #MKX LEVEL 4
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXGRV4.png
+      0: Resources/MKX-ARMOR/WSCAR/MXGRV4.png
   - type: PRIMGRVLV5.PCK #MKX LEVEL 5
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXGRV5.png
+      0: Resources/MKX-ARMOR/WSCAR/MXGRV5.png
 
   - type: MKXBIKELV1.PCK
     subX: 32
@@ -1910,28 +1910,28 @@ extraSprites:
     width: 256
     height: 840
     files:
-      0: Resources/MKX-ARMOR/RAVENG/OUTR1.png
+      0: Resources/MKX-ARMOR/WSCAR/OUTR1.png
   - type: MKXBIKELV2.PCK
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/MKX-ARMOR/RAVENG/OUTR2.png
+      0: Resources/MKX-ARMOR/WSCAR/OUTR2.png
   - type: MKXBIKELV3.PCK
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/MKX-ARMOR/RAVENG/OUTR3.png
+      0: Resources/MKX-ARMOR/WSCAR/OUTR3.png
   - type: MKXBIKELV4.PCK
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/MKX-ARMOR/RAVENG/OUTR4.png
+      0: Resources/MKX-ARMOR/WSCAR/OUTR4.png
 
   - type: THUNDERFIREP.PCK
     subX: 32
@@ -1939,11 +1939,11 @@ extraSprites:
     width: 256
     height: 840
     files:
-      0: Resources/MKX-ARMOR/RAVENG/TFP.png
+      0: Resources/MKX-ARMOR/WSCAR/TFP.png
   - type: TFINVP.SPK        #MKX                                           ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/TFINVP.PNG
+      0: Resources/LAYER/WSCAR/TFINVP.PNG
 
   - type: MKXTACZOMBIE.PCK  #MKX                                           ZOMBIESSSSSSSSSSSSS
     width: 512
@@ -1951,44 +1951,44 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXTACZ.png
+      0: Resources/MKX-ARMOR/WSCAR/MXTACZ.png
   - type: MKXPHBZOMBIE.PCK  #MKX                                           ZOMBIESSSSSSSSSSSSS
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXPHBZ.png
+      0: Resources/MKX-ARMOR/WSCAR/MXPHBZ.png
   - type: MKXINCZOMBIE.PCK  #MKX                                           ZOMBIESSSSSSSSSSSSS
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXINCZ.png
+      0: Resources/MKX-ARMOR/WSCAR/MXINCZ.png
   - type: MKXGRVZOMBIE.PCK  #MKX                                           ZOMBIESSSSSSSSSSSSS
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MKX-ARMOR/RAVENG/MXGRVZ.png
+      0: Resources/MKX-ARMOR/WSCAR/MXGRVZ.png
   - type: GRVZ.SPK        #MKX                                           ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/GRVZ.PNG
+      0: Resources/LAYER/WSCAR/GRVZ.PNG
   - type: INCZ.SPK        #MKX                                           ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/INCLVZ.PNG
+      0: Resources/LAYER/WSCAR/INCLVZ.PNG
   - type: MKXZ.SPK        #MKX                                           ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/MKXZ.PNG
+      0: Resources/LAYER/WSCAR/MKXZ.PNG
   - type: PHBZ.SPK        #MKX                                           ZOMBIESSSSSSSSSSSSS
     singleImage: true
     files:
-      0: Resources/LAYER/RAVENG/PHBZ.PNG
+      0: Resources/LAYER/WSCAR/PHBZ.PNG
 #
 #
 #
@@ -1999,21 +1999,21 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/Zombies/RAVENG/TERMINATORZ.png
+      0: Resources/Zombies/WSCAR/TERMINATORZ.png
   - type: SCOUTZOMBIE.PCK  #MK7                                          ZOMBIESSSSSSSSSSSSS
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Zombies/RAVENG/SCOUTZ.png
+      0: Resources/Zombies/WSCAR/SCOUTZ.png
   - type: MK7ZOMBIE.PCK  #MK7                                            ZOMBIESSSSSSSSSSSSS
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Zombies/RAVENG/MK7Z.png
+      0: Resources/Zombies/WSCAR/MK7Z.png
 #
   - type: XCOM_HS.PCK  #SCOUT ARMOR CAPE          BROWN
     width: 512
@@ -2021,168 +2021,168 @@ extraSprites:
     subX: 32
     subY: 40
     files:
-      0: Resources/Scout/RAVENG/SCOUTH.png
+      0: Resources/Scout/WSCAR/SCOUTH.png
   - type: XCOM_HSG.PCK #SCOUT ARMOR CAPE          GREEN
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Scout/RAVENG/SCOUTHG.png
+      0: Resources/Scout/WSCAR/SCOUTHG.png
   - type: XCOM_HSR.PCK #SCOUT ARMOR CAPE          RED
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Scout/RAVENG/SCOUTHR.png
+      0: Resources/Scout/WSCAR/SCOUTHR.png
   - type: XCOM_HSB.PCK #SCOUT ARMOR CAPE          URBAN
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Scout/RAVENG/SCOUTHB.png
+      0: Resources/Scout/WSCAR/SCOUTHB.png
   - type: XCOM_HSW.PCK #SCOUT ARMOR CAPE          WHITE
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Scout/RAVENG/SCOUTHW.png
+      0: Resources/Scout/WSCAR/SCOUTHW.png
   - type: XCOM_HSY.PCK #SCOUT ARMOR CAPE          YELOW
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Scout/RAVENG/SCOUTHY.png
+      0: Resources/Scout/WSCAR/SCOUTHY.png
   - type: XCOM_0.PCK #SCOUT ARMOR xcom0
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Scout/RAVENG/SCOUT.png
+      0: Resources/Scout/WSCAR/SCOUT.png
   - type: XCOM_1.PCK #MK7 ARMOR xcom1
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MK7-ARMOR/RAVENG/MK7-ARMOR.png
+      0: Resources/MK7-ARMOR/WSCAR/MK7-ARMOR.png
   - type: XCOM_1_CIV.PCK #MK7 ARMOR CIVILIAN
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MK7-ARMOR/RAVENG/MK7-ARMOR2.png
+      0: Resources/MK7-ARMOR/WSCAR/MK7-ARMOR2.png
   - type: XCOM_2.PCK #TERMINATOR ARMOR xcom2
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Terminator/RAVENG/TERMINATOR-ARMOR.png
+      0: Resources/Terminator/WSCAR/TERMINATOR-ARMOR.png
   - type: XCOM_20.PCK #TERMINATOR CAPTAIN ARMOR xcom20    
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/CAPTAIN/RAVENG/TERMINATOR-CAPTAIN.png
+      0: Resources/CAPTAIN/WSCAR/TERMINATOR-CAPTAIN.png
   - type: XCOM_21.PCK #Sargent ARMOR xcom21
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Sargent/RAVENG/MK7-SARGENT.png
+      0: Resources/Sargent/WSCAR/MK7-SARGENT.png
   - type: XCOM_22.PCK #APOT ARMOR xcom22
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/APOT/RAVENG/APOT-ARMOR.png
+      0: Resources/APOT/WSCAR/APOT-ARMOR.png
   - type: XCOM_23.PCK #DEV ARMOR xcom23
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Devastator/RAVENG/DEV-ARMOR.png
+      0: Resources/Devastator/WSCAR/DEV-ARMOR.png
   - type: XCOM_24.PCK #LIB ARMOR xcom24
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/LIB/RAVENG/LIB-ARMOR.png
+      0: Resources/LIB/WSCAR/LIB-ARMOR.png
   - type: XCOM_25.PCK #ASS ARMOR xcom25
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Assault/RAVENG/ASS-ARMOR.png
+      0: Resources/Assault/WSCAR/ASS-ARMOR.png
   - type: XCOM_26.PCK #Terminator ASS
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Terminator/RAVENG/TERMINATORASS.png 
+      0: Resources/Terminator/WSCAR/TERMINATORASS.png 
   - type: XCOM_27.PCK #CHAPLAIN ARMOR xcom27
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/CHAP/RAVENG/CHAP-ARMOR.png
+      0: Resources/CHAP/WSCAR/CHAP-ARMOR.png
   - type: XCOM_28.PCK #HONOR ARMOR
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Honor/RAVENG/HONORARMOR.png
+      0: Resources/Honor/WSCAR/HONORARMOR.png
   - type: XCOM_HASS.PCK #HONOR ARMOR ASSAULT
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Honor/RAVENG/HONORARMORASS.png
+      0: Resources/Honor/WSCAR/HONORARMORASS.png
   - type: XCOM_29.PCK #Terminator Sargent ARMOR xcom29
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Terminator/RAVENG/TERMINATORSARGENT.png
+      0: Resources/Terminator/WSCAR/TERMINATORSARGENT.png
   - type: XCOM_30.PCK #TECHMARINE ARMOR xcom30
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/Tech/RAVENG/TECH.png
+      0: Resources/Tech/WSCAR/TECH.png
   - type: SIGNALDR.PCK #TECHMARINE ARMOR xcom30
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/MK7-ARMOR/RAVENG/MASTER.png
+      0: Resources/MK7-ARMOR/WSCAR/MASTER.png
   - type: JOAN.PCK #NPC J
     width: 512
     height: 720
     subX: 32
     subY: 40
     files:
-      0: Resources/JOAN/RAVENG/MK7-JOAN.png
+      0: Resources/JOAN/WSCAR/MK7-JOAN.png
 ##LARGE TANK DR
   - type: STORMRAVEN.PCK
     subX: 32
@@ -2190,154 +2190,154 @@ extraSprites:
     width: 256
     height: 320
     files:
-      0: Resources/Stormraven/RAVENG/Stormraven.png
+      0: Resources/Stormraven/WSCAR/Stormraven.png
   - type: BIKE.PCK
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/bike/RAVENG/BIKE.png
+      0: Resources/bike/WSCAR/BIKE.png
   - type: CENT.PCK
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/Cent/RAVENG/CENT.png
+      0: Resources/Cent/WSCAR/CENT.png
   - type: TARANTULA.PCK
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/Tarantula/RAVENG/Tarantula.png
+      0: Resources/Tarantula/WSCAR/Tarantula.png
   - type: TARANTULARADAR.PCK
     subX: 32
     subY: 40
     width: 256
     height: 200
     files:
-      0: Resources/Tarantula/RAVENG/Tarantularadar.png
+      0: Resources/Tarantula/WSCAR/Tarantularadar.png
   - type: TARANTULABOLTER.PCK
     subX: 32
     subY: 40
     width: 256
     height: 320
     files:
-      0: Resources/Tarantula/RAVENG/Tarantulabolter.png
+      0: Resources/Tarantula/WSCAR/Tarantulabolter.png
   - type: WW.PCK
     subX: 32
     subY: 40
     width: 256
     height: 320
     files:
-      0: Resources/Tarantula/RAVENG/WW.png
+      0: Resources/Tarantula/WSCAR/WW.png
   - type: RB.PCK
     subX: 32
     subY: 40
     width: 256
     height: 320
     files:
-      0: Resources/Tarantula/RAVENG/RB.png
+      0: Resources/Tarantula/WSCAR/RB.png
   - type: RD.PCK
     subX: 32
     subY: 40
     width: 256
     height: 320
     files:
-      0: Resources/Tarantula/RAVENG/RD.png
+      0: Resources/Tarantula/WSCAR/RD.png
   - type: DREAD.PCK    #FISTS
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/dread/RAVENG/dread.png	  
+      0: Resources/dread/WSCAR/dread.png	  
   - type: DREAD2.PCK    #MISSELE
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/dread/RAVENG/dread2.png
+      0: Resources/dread/WSCAR/dread2.png
   - type: DREAD3.PCK    #LASGUN
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/dread/RAVENG/dread3.png
+      0: Resources/dread/WSCAR/dread3.png
   - type: DREAD4.PCK    #PLASMA
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/dread/RAVENG/dread4.png
+      0: Resources/dread/WSCAR/dread4.png
   - type: DREAD5.PCK    #VETERAN
     subX: 32
     subY: 40
     width: 256
     height: 840
     files:
-      0: Resources/dread/RAVENG/dread5.png
+      0: Resources/dread/WSCAR/dread5.png
   - type: LTT.PCK #Left thunderhawnk turret
     width: 256
     height: 120
     subX: 32
     subY: 40
     files:
-      0: Resources/Thunderhawk/RAVENG/LTT.png
+      0: Resources/Thunderhawk/WSCAR/LTT.png
   - type: RTT.PCK #RIGHT thunderhawnk turret
     width: 256
     height: 120
     subX: 32
     subY: 40
     files:
-      0: Resources/Thunderhawk/RAVENG/RTT.png
+      0: Resources/Thunderhawk/WSCAR/RTT.png
   - type: STORMTALON.PCK
     subX: 32
     subY: 40
     width: 256
     height: 200
     files:
-      0: Resources/Stormtalon/RAVENG/STDR12.png
+      0: Resources/Stormtalon/WSCAR/STDR12.png
   - type: STORMTALON2.PCK
     subX: 32
     subY: 40
     width: 256
     height: 200
     files:
-      0: Resources/Stormtalon/RAVENG/ST2DR12.png
+      0: Resources/Stormtalon/WSCAR/ST2DR12.png
   - type: LTS.PCK #Left Stormtalon turret
     width: 384
     height: 40
     subX: 32
     subY: 40
     files:
-      0: Resources/Stormtalon/RAVENG/LTS.png
+      0: Resources/Stormtalon/WSCAR/LTS.png
   - type: RTS.PCK #RIGHT Stormtalon turret
     width: 384
     height: 40
     subX: 32
     subY: 40
     files:
-      0: Resources/Stormtalon/RAVENG/RTS.png	  
+      0: Resources/Stormtalon/WSCAR/RTS.png	  
   - type: VINDICATOR.PCK
     subX: 32
     subY: 40
     width: 256
     height: 200
     files:
-      0: Resources/Support/RAVENG/VINDI2.png
+      0: Resources/Support/WSCAR/VINDI2.png
   - type: VINDICATOR2.PCK
     subX: 32
     subY: 40
     width: 256
     height: 200
     files:
-      0: Resources/Support/RAVENG/VINDI3.png
+      0: Resources/Support/WSCAR/VINDI3.png
 
 
 #CRAFTS
@@ -2349,41 +2349,41 @@ extraSprites:
       45: Resources/Rank/basebits45.gif
       46: Resources/Rank/basebits46.gif
       47: Resources/Rank/basebits47.gif
-      55: Resources/Thunderhawk/RAVENG/Thunderhawk_base.png
-      56: Resources/Droppod/RAVENG/Droppod_base.png
-      57: Resources/Rhino/RAVENG/Rhino_base.png
-      58: Resources/Stormeagle/RAVENG/Stormeagle_base.png
-      59: Resources/Stormtalon/RAVENG/Stormtalon_base.png
-      60: Resources/Stormraven/RAVENG/Stormraven_base.png
-      61: Resources/Droppod/RAVENG/Droppod_base2.png
-      63: Resources/LANDSPEEDER/RAVENG/Speed_base.png
-      64: Resources/Stormhawk/RAVENG/Stormhawk_base.png
-      65: Resources/Army/RAVENG/army_base.png
+      55: Resources/Thunderhawk/WSCAR/Thunderhawk_base.png
+      56: Resources/Droppod/WSCAR/Droppod_base.png
+      57: Resources/Rhino/WSCAR/Rhino_base.png
+      58: Resources/Stormeagle/WSCAR/Stormeagle_base.png
+      59: Resources/Stormtalon/WSCAR/Stormtalon_base.png
+      60: Resources/Stormraven/WSCAR/Stormraven_base.png
+      61: Resources/Droppod/WSCAR/Droppod_base2.png
+      63: Resources/LANDSPEEDER/WSCAR/Speed_base.png
+      64: Resources/Stormhawk/WSCAR/Stormhawk_base.png
+      65: Resources/Army/WSCAR/army_base.png
       74: Resources/Rank/basebits74.png
       75: Resources/Rank/basebits75.png
       76: Resources/Rank/basebits76.png
       77: Resources/Rank/basebits77.png
       78: Resources/Rank/basebits78.png
       79: Resources/Rank/basebits79.gif
-      133: Resources/Stormhawk/RAVENG/Stormhawk2_base.png
+      133: Resources/Stormhawk/WSCAR/Stormhawk2_base.png
       308: Resources/Basebits/basebits308.png   #Facility
-      533: Resources/Rhino/RAVENG/Rhino_ass.png
-      534: Resources/Rhino/RAVENG/Rhino_dev.png
-      535: Resources/Rhino/RAVENG/Rhino_sct.png
+      533: Resources/Rhino/WSCAR/Rhino_ass.png
+      534: Resources/Rhino/WSCAR/Rhino_dev.png
+      535: Resources/Rhino/WSCAR/Rhino_sct.png
 # PLUS 33 BASE ICON
 #PRIMARIS
 # PLUS 33 BASE ICON
       911: Resources/Thunderhawk/ULTRAMARINE/Thunderhawk_base1.png        #MARINES  0
       912: Resources/Thunderhawk/IMPERIALF/Thunderhawk_base1.png          #MARINES  1
-      913: Resources/Thunderhawk/RAVENG/Thunderhawk_base1.png             #MARINES  2
+      913: Resources/Thunderhawk/WSCAR/Thunderhawk_base1.png             #MARINES  2
       914: Resources/Thunderhawk/SALA/Thunderhawk_base1.png               #MARINES  3
-      915: Resources/Impulsor/RAVENG/parmy_base.png               #MARINES  4
-      916: Resources/Impulsor/RAVENG/repulsor_base.png            #MARINES  5
-      917: Resources/Droppod/RAVENG/Droppod_base3.png              #MARINES  6
-      918: Resources/Xiphon/RAVENG/Xiphon_base.png                #MARINES  7
-      919: Resources/Impulsor/RAVENG/impulsor_base.png            #MARINES  8
-      920: Resources/Impulsor/RAVENG/repulsor_base.png            #MARINES  9
-      921: Resources/Impulsor/RAVENG/repulsord_base.png            #MARINES 10
+      915: Resources/Impulsor/WSCAR/parmy_base.png               #MARINES  4
+      916: Resources/Impulsor/WSCAR/repulsor_base.png            #MARINES  5
+      917: Resources/Droppod/WSCAR/Droppod_base3.png              #MARINES  6
+      918: Resources/Xiphon/WSCAR/Xiphon_base.png                #MARINES  7
+      919: Resources/Impulsor/WSCAR/impulsor_base.png            #MARINES  8
+      920: Resources/Impulsor/WSCAR/repulsor_base.png            #MARINES  9
+      921: Resources/Impulsor/WSCAR/repulsord_base.png            #MARINES 10
 #BIG OBJS
   - type: INTICON.PCK
     files:
@@ -2436,145 +2436,145 @@ extraSprites:
       899: Resources/Impulsor/repulsord_dogfight.gif                        #MARINES 10
   - type: BIGOBS.PCK
     files:
-      197: Resources/dread/RAVENG/WDREAD6.png
-      198: Resources/dread/RAVENG/WDREAD7.png
-      199: Resources/Thunderhawk/RAVENG/199.png
-      200: Resources/bike/RAVENG/200.png
-      201: Resources/dread/RAVENG/WDREAD1.png
-      202: Resources/dread/RAVENG/WDREAD4.png
-      203: Resources/dread/RAVENG/WDREAD3.png
-      204: Resources/Tarantula/RAVENG/204.png
-      205: Resources/Tarantula/RAVENG/205.png
-      207: Resources/Terminator/RAVENG/207.png
-      208: Resources/Scout/RAVENG/208.png
-      209: Resources/MK7-ARMOR/RAVENG/Bigdead.png
-      210: Resources/CAPTAIN/RAVENG/captain.png
-      211: Resources/Sargent/RAVENG/sargent.png
-      212: Resources/APOT/RAVENG/apot.png
-      223: Resources/Banner/RAVENG/223.png
-      231: Resources/LIB/RAVENG/231.png
-      234: Resources/dread/RAVENG/WDREAD2.png
-      254: Resources/CHAP/RAVENG/254.png
-      255: Resources/Honor/RAVENG/255.png
-      260: Resources/Terminator/RAVENG/STerminator.png
-      261: Resources/Terminator/RAVENG/261.png
-      269: Resources/Tech/RAVENG/269.png
+      197: Resources/dread/WSCAR/WDREAD6.png
+      198: Resources/dread/WSCAR/WDREAD7.png
+      199: Resources/Thunderhawk/WSCAR/199.png
+      200: Resources/bike/WSCAR/200.png
+      201: Resources/dread/WSCAR/WDREAD1.png
+      202: Resources/dread/WSCAR/WDREAD4.png
+      203: Resources/dread/WSCAR/WDREAD3.png
+      204: Resources/Tarantula/WSCAR/204.png
+      205: Resources/Tarantula/WSCAR/205.png
+      207: Resources/Terminator/WSCAR/207.png
+      208: Resources/Scout/WSCAR/208.png
+      209: Resources/MK7-ARMOR/WSCAR/Bigdead.png
+      210: Resources/CAPTAIN/WSCAR/captain.png
+      211: Resources/Sargent/WSCAR/sargent.png
+      212: Resources/APOT/WSCAR/apot.png
+      223: Resources/Banner/WSCAR/223.png
+      231: Resources/LIB/WSCAR/231.png
+      234: Resources/dread/WSCAR/WDREAD2.png
+      254: Resources/CHAP/WSCAR/254.png
+      255: Resources/Honor/WSCAR/255.png
+      260: Resources/Terminator/WSCAR/STerminator.png
+      261: Resources/Terminator/WSCAR/261.png
+      269: Resources/Tech/WSCAR/269.png
       292: Resources/Support/damage.gif
-      306: Resources/JOAN/RAVENG/306.png
-      329: Resources/Cent/RAVENG/329.png
-      334: Resources/Tarantula/RAVENG/334.png
-      451: Resources/Stormtalon/RAVENG/451.png
-      456: Resources/Scout/RAVENG/456.png
-      457: Resources/Stormraven/RAVENG/457.png
-      900: Resources/Zombies/RAVENG/900.png       #ZOMBIESSSSSSSSSSSSS
-      901: Resources/Zombies/RAVENG/901.png       #ZOMBIESSSSSSSSSSSSS
-      902: Resources/Zombies/RAVENG/902.png       #ZOMBIESSSSSSSSSSSSS
-      903: Resources/MK7-ARMOR/RAVENG/904.png       #SIGNAL
-      905: Resources/MKX-ARMOR/RAVENG/905.png       #MKX
-      906: Resources/MKX-ARMOR/RAVENG/906.png       #MKX
-      907: Resources/MKX-ARMOR/RAVENG/907.png       #MKX
-      908: Resources/MKX-ARMOR/RAVENG/908.png       #MKX
-      909: Resources/MKX-ARMOR/RAVENG/909.png       #MKX
-      910: Resources/MKX-ARMOR/RAVENG/910.png       #MKX
-      911: Resources/MKX-ARMOR/RAVENG/911.png       #MKX
-      912: Resources/MKX-ARMOR/RAVENG/912.png       #MKX
-      913: Resources/MKX-ARMOR/RAVENG/913.png       #MKX
-      914: Resources/MKX-ARMOR/RAVENG/914.png       #MKX
-      920: Resources/MKX-ARMOR/RAVENG/920.png       #MKX
-      921: Resources/MKX-ARMOR/RAVENG/921.png       #MKX
-      922: Resources/MKX-ARMOR/RAVENG/922.png       #MKX
-      923: Resources/MKX-ARMOR/RAVENG/923.png       #MKX
-      924: Resources/MKX-ARMOR/RAVENG/924.png       #MKX
-      925: Resources/MKX-ARMOR/RAVENG/925.png       #MKX
-      926: Resources/MKX-ARMOR/RAVENG/926.png       #MKX      
+      306: Resources/JOAN/WSCAR/306.png
+      329: Resources/Cent/WSCAR/329.png
+      334: Resources/Tarantula/WSCAR/334.png
+      451: Resources/Stormtalon/WSCAR/451.png
+      456: Resources/Scout/WSCAR/456.png
+      457: Resources/Stormraven/WSCAR/457.png
+      900: Resources/Zombies/WSCAR/900.png       #ZOMBIESSSSSSSSSSSSS
+      901: Resources/Zombies/WSCAR/901.png       #ZOMBIESSSSSSSSSSSSS
+      902: Resources/Zombies/WSCAR/902.png       #ZOMBIESSSSSSSSSSSSS
+      903: Resources/MK7-ARMOR/WSCAR/904.png       #SIGNAL
+      905: Resources/MKX-ARMOR/WSCAR/905.png       #MKX
+      906: Resources/MKX-ARMOR/WSCAR/906.png       #MKX
+      907: Resources/MKX-ARMOR/WSCAR/907.png       #MKX
+      908: Resources/MKX-ARMOR/WSCAR/908.png       #MKX
+      909: Resources/MKX-ARMOR/WSCAR/909.png       #MKX
+      910: Resources/MKX-ARMOR/WSCAR/910.png       #MKX
+      911: Resources/MKX-ARMOR/WSCAR/911.png       #MKX
+      912: Resources/MKX-ARMOR/WSCAR/912.png       #MKX
+      913: Resources/MKX-ARMOR/WSCAR/913.png       #MKX
+      914: Resources/MKX-ARMOR/WSCAR/914.png       #MKX
+      920: Resources/MKX-ARMOR/WSCAR/920.png       #MKX
+      921: Resources/MKX-ARMOR/WSCAR/921.png       #MKX
+      922: Resources/MKX-ARMOR/WSCAR/922.png       #MKX
+      923: Resources/MKX-ARMOR/WSCAR/923.png       #MKX
+      924: Resources/MKX-ARMOR/WSCAR/924.png       #MKX
+      925: Resources/MKX-ARMOR/WSCAR/925.png       #MKX
+      926: Resources/MKX-ARMOR/WSCAR/926.png       #MKX      
   - type: FLOOROB.PCK
     files:
-      82: Resources/bike/RAVENG/floorob_82.png
-      83: Resources/bike/RAVENG/floorob_83.png
-      84: Resources/bike/RAVENG/floorob_84.png
-      85: Resources/bike/RAVENG/floorob_85.png	
-      86: Resources/dread/RAVENG/floorob_86.png
-      87: Resources/dread/RAVENG/floorob_87.png
-      88: Resources/dread/RAVENG/floorob_88.png
-      89: Resources/dread/RAVENG/floorob_89.png
-      90: Resources/Tarantula/RAVENG/floorob_90.png
-      91: Resources/Tarantula/RAVENG/floorob_91.png
-      92: Resources/Tarantula/RAVENG/floorob_92.png
-      93: Resources/Tarantula/RAVENG/floorob_93.png	  
-      95: Resources/Terminator/RAVENG/floorob_95.png
-      96: Resources/Scout/RAVENG/floorob_96.png
-      97: Resources/MK7-ARMOR/RAVENG/floorob_97.png
-      98: Resources/CAPTAIN/RAVENG/floorob_98.png
-      99: Resources/Sargent/RAVENG/floorob_99.png
-      100: Resources/APOT/RAVENG/floorob_100.png
-      109: Resources/Banner/RAVENG/floorob_109.png
-      117: Resources/LIB/RAVENG/floorob_117.png
-      135: Resources/CHAP/RAVENG/floorob_135.png
-      136: Resources/Honor/RAVENG/floorob_136.png
-      145: Resources/Terminator/RAVENG/floorob_145.png
-      151: Resources/tech/RAVENG/floorob_151.png
-      171: Resources/JOAN/RAVENG/floorob_171.png
-      191: Resources/Cent/RAVENG/floorob_191.png
-      192: Resources/Cent/RAVENG/floorob_192.png
-      193: Resources/Cent/RAVENG/floorob_193.png
-      194: Resources/Cent/RAVENG/floorob_194.png
-      270: Resources/Thunderhawk/RAVENG/floorob_270.png
-      271: Resources/Thunderhawk/RAVENG/floorob_271.png
-      272: Resources/Stormtalon/RAVENG/floorob_272.png
-      273: Resources/Stormtalon/RAVENG/floorob_273.png
-      274: Resources/Stormtalon/RAVENG/floorob_274.png
-      275: Resources/Stormtalon/RAVENG/floorob_275.png
-      276: Resources/Stormtalon/RAVENG/floorob_276.png
-      277: Resources/Stormtalon/RAVENG/floorob_277.png
-      278: Resources/Stormtalon/RAVENG/floorob_278.png
-      279: Resources/Stormtalon/RAVENG/floorob_279.png
-      280: Resources/Stormtalon/RAVENG/floorob_280.png
-      281: Resources/Stormtalon/RAVENG/floorob_281.png
-      299: Resources/Scout/RAVENG/floorob_299.png
-      350: Resources/Stormraven/RAVENG/floorob_350.png
-      351: Resources/Stormraven/RAVENG/floorob_351.png
-      352: Resources/Stormraven/RAVENG/floorob_352.png
-      353: Resources/Stormraven/RAVENG/floorob_353.png
-      900: Resources/Zombies/RAVENG/floorob_900.png       #ZOMBIESSSSSSSSSSSSS
-      901: Resources/Zombies/RAVENG/floorob_901.png       #ZOMBIESSSSSSSSSSSSS
-      902: Resources/Zombies/RAVENG/floorob_902.png       #ZOMBIESSSSSSSSSSSSS
-      903: Resources/MK7-ARMOR/RAVENG/floorob_903.png     #SIGNAL
-      904: Resources/MKX-ARMOR/RAVENG/floorob_904.png     #MKX
-      905: Resources/MKX-ARMOR/RAVENG/floorob_905.png     #MKX
-      906: Resources/MKX-ARMOR/RAVENG/floorob_906.png     #MKX
-      907: Resources/MKX-ARMOR/RAVENG/floorob_907.png     #MKX
-      908: Resources/MKX-ARMOR/RAVENG/floorob_908.png     #MKX
-      909: Resources/MKX-ARMOR/RAVENG/floorob_909.png     #MKX
-      910: Resources/MKX-ARMOR/RAVENG/floorob_910.png     #MKX
-      911: Resources/MKX-ARMOR/RAVENG/floorob_911.png     #MKX
-      912: Resources/MKX-ARMOR/RAVENG/floorob_912.png     #MKX
-      913: Resources/MKX-ARMOR/RAVENG/floorob_913.png     #MKX
-      914: Resources/MKX-ARMOR/RAVENG/floorob_914.png     #MKX
-      915: Resources/MKX-ARMOR/RAVENG/floorob_915.png     #MKX
-      916: Resources/MKX-ARMOR/RAVENG/floorob_916.png     #MKX
-      917: Resources/MKX-ARMOR/RAVENG/floorob_917.png     #MKX
-      918: Resources/MKX-ARMOR/RAVENG/floorob_918.png     #MKX
-      919: Resources/MKX-ARMOR/RAVENG/floorob_919.png     #MKX
-      920: Resources/MKX-ARMOR/RAVENG/floorob_920.png     #MKX
-      921: Resources/MKX-ARMOR/RAVENG/floorob_921.png     #MKX
-      922: Resources/MKX-ARMOR/RAVENG/floorob_922.png     #MKX
+      82: Resources/bike/WSCAR/floorob_82.png
+      83: Resources/bike/WSCAR/floorob_83.png
+      84: Resources/bike/WSCAR/floorob_84.png
+      85: Resources/bike/WSCAR/floorob_85.png	
+      86: Resources/dread/WSCAR/floorob_86.png
+      87: Resources/dread/WSCAR/floorob_87.png
+      88: Resources/dread/WSCAR/floorob_88.png
+      89: Resources/dread/WSCAR/floorob_89.png
+      90: Resources/Tarantula/WSCAR/floorob_90.png
+      91: Resources/Tarantula/WSCAR/floorob_91.png
+      92: Resources/Tarantula/WSCAR/floorob_92.png
+      93: Resources/Tarantula/WSCAR/floorob_93.png	  
+      95: Resources/Terminator/WSCAR/floorob_95.png
+      96: Resources/Scout/WSCAR/floorob_96.png
+      97: Resources/MK7-ARMOR/WSCAR/floorob_97.png
+      98: Resources/CAPTAIN/WSCAR/floorob_98.png
+      99: Resources/Sargent/WSCAR/floorob_99.png
+      100: Resources/APOT/WSCAR/floorob_100.png
+      109: Resources/Banner/WSCAR/floorob_109.png
+      117: Resources/LIB/WSCAR/floorob_117.png
+      135: Resources/CHAP/WSCAR/floorob_135.png
+      136: Resources/Honor/WSCAR/floorob_136.png
+      145: Resources/Terminator/WSCAR/floorob_145.png
+      151: Resources/tech/WSCAR/floorob_151.png
+      171: Resources/JOAN/WSCAR/floorob_171.png
+      191: Resources/Cent/WSCAR/floorob_191.png
+      192: Resources/Cent/WSCAR/floorob_192.png
+      193: Resources/Cent/WSCAR/floorob_193.png
+      194: Resources/Cent/WSCAR/floorob_194.png
+      270: Resources/Thunderhawk/WSCAR/floorob_270.png
+      271: Resources/Thunderhawk/WSCAR/floorob_271.png
+      272: Resources/Stormtalon/WSCAR/floorob_272.png
+      273: Resources/Stormtalon/WSCAR/floorob_273.png
+      274: Resources/Stormtalon/WSCAR/floorob_274.png
+      275: Resources/Stormtalon/WSCAR/floorob_275.png
+      276: Resources/Stormtalon/WSCAR/floorob_276.png
+      277: Resources/Stormtalon/WSCAR/floorob_277.png
+      278: Resources/Stormtalon/WSCAR/floorob_278.png
+      279: Resources/Stormtalon/WSCAR/floorob_279.png
+      280: Resources/Stormtalon/WSCAR/floorob_280.png
+      281: Resources/Stormtalon/WSCAR/floorob_281.png
+      299: Resources/Scout/WSCAR/floorob_299.png
+      350: Resources/Stormraven/WSCAR/floorob_350.png
+      351: Resources/Stormraven/WSCAR/floorob_351.png
+      352: Resources/Stormraven/WSCAR/floorob_352.png
+      353: Resources/Stormraven/WSCAR/floorob_353.png
+      900: Resources/Zombies/WSCAR/floorob_900.png       #ZOMBIESSSSSSSSSSSSS
+      901: Resources/Zombies/WSCAR/floorob_901.png       #ZOMBIESSSSSSSSSSSSS
+      902: Resources/Zombies/WSCAR/floorob_902.png       #ZOMBIESSSSSSSSSSSSS
+      903: Resources/MK7-ARMOR/WSCAR/floorob_903.png     #SIGNAL
+      904: Resources/MKX-ARMOR/WSCAR/floorob_904.png     #MKX
+      905: Resources/MKX-ARMOR/WSCAR/floorob_905.png     #MKX
+      906: Resources/MKX-ARMOR/WSCAR/floorob_906.png     #MKX
+      907: Resources/MKX-ARMOR/WSCAR/floorob_907.png     #MKX
+      908: Resources/MKX-ARMOR/WSCAR/floorob_908.png     #MKX
+      909: Resources/MKX-ARMOR/WSCAR/floorob_909.png     #MKX
+      910: Resources/MKX-ARMOR/WSCAR/floorob_910.png     #MKX
+      911: Resources/MKX-ARMOR/WSCAR/floorob_911.png     #MKX
+      912: Resources/MKX-ARMOR/WSCAR/floorob_912.png     #MKX
+      913: Resources/MKX-ARMOR/WSCAR/floorob_913.png     #MKX
+      914: Resources/MKX-ARMOR/WSCAR/floorob_914.png     #MKX
+      915: Resources/MKX-ARMOR/WSCAR/floorob_915.png     #MKX
+      916: Resources/MKX-ARMOR/WSCAR/floorob_916.png     #MKX
+      917: Resources/MKX-ARMOR/WSCAR/floorob_917.png     #MKX
+      918: Resources/MKX-ARMOR/WSCAR/floorob_918.png     #MKX
+      919: Resources/MKX-ARMOR/WSCAR/floorob_919.png     #MKX
+      920: Resources/MKX-ARMOR/WSCAR/floorob_920.png     #MKX
+      921: Resources/MKX-ARMOR/WSCAR/floorob_921.png     #MKX
+      922: Resources/MKX-ARMOR/WSCAR/floorob_922.png     #MKX
   - type: HANDOB.PCK
     height: 40
     width: 256
     subX: 32
     subY: 40
     files:
-        240: Resources/Banner/RAVENG/240.png
-        1728: Resources/MKX-ARMOR/RAVENG/1728.png          #PRIMARIS
-        1736: Resources/MKX-ARMOR/RAVENG/1736.png          #PRIMARIS
+        240: Resources/Banner/WSCAR/240.png
+        1728: Resources/MKX-ARMOR/WSCAR/1728.png          #PRIMARIS
+        1736: Resources/MKX-ARMOR/WSCAR/1736.png          #PRIMARIS
   - type: X1.PCK                       #EXPLOSION EXPLOSIONS EXPLOSION EXPLOSION EXPLOSIONS EXPLOSION
     width: 1024
     height: 448
     subX: 128
     subY: 64
     files:      
-      1728: Resources/MKX-ARMOR/RAVENG/XTHUNDER.png        #PRIMARIS
-      1736: Resources/MKX-ARMOR/RAVENG/XBOLTER.png         #PRIMARIS        
+      1728: Resources/MKX-ARMOR/WSCAR/XTHUNDER.png        #PRIMARIS
+      1736: Resources/MKX-ARMOR/WSCAR/XBOLTER.png         #PRIMARIS        
 ##################################################################DON`T ALTER##################################################################
 ##################################################################################################################################################		
 items:

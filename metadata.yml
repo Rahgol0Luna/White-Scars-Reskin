@@ -1,10 +1,5 @@
 #
 # metadata.yaml for changing armor
-
-
-#Never Gonna Give You Up
-#Never Gonna Let You Down
-
 name: "Chapter Change White Scars (ROSIGMA)"
 
 version: 4.0
@@ -13,4 +8,3 @@ description: "Change the chapter from Ultramarines to White Scars; Run this vers
 master: "40k"
 reservedSpace: 2
 id: "White_Scars_ROSIGMA"
-"TESTING TESITNG TESTING"
